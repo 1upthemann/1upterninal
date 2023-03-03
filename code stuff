@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<link rel="icon" type="image/x-icon" href="file:///media/fuse/drivefs-5dc8325389af2be86a074a964f2ce9d1/root/1upterminallogo.png">
+</head>
+<body>
+</body>
+</html>
+<title>the 1up terminal</title>
+  <div style="background-image: url ('http://get1.imglarger.com:8889/results/8R3gaen5_2x.jpg'); " > 
+</style>
+</head>
+<body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body {
+            font-size: 24px;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            color: rgb(23, 176, 9);
+             background-image: url('download - 2023-02-28T113740.533.jpeg');
+        }
+{
+        }
+            .amogus {
+                font-size: 42px;
+            color: rgb(23, 176, 9);
+        
+        }
+        .link {
+            font-size: 18px;
+            color: rgb(23, 173, 9);
+        }
+    </style>
+    <img src="channels4_profile.jpg" alt="1up" width="50" height="50"> 
+    <!DOCTYPE html>
+    <h1 style="font-size:65px">THE 1UP TERMINAL</h1>
+    <html>
+  <head>
+    <title>Title of the document</title>
+    <html lang="en">
+        <head>
+          <title>Linear Gradient</title>
+        </head>
+        <body>
+          <style>
+            h1 {
+              font-size: 20px; /* make our h1 tag larger */
+              font-family: sans-serif; /* choosing our font */
+              background: linear-gradient(to right, rgba(255, 215, 255, 0) 0%, rgba(24, 209, 40, 0.5) 20%, rgba(255, 255, 255, 0) 61%), linear-gradient(rgb(143, 217, 97) 52%, rgb(224, 246, 255) 60%, rgb(103, 132, 78) 61%); /* you can change the colors based on your preference */
+              background-clip: text; /*it defines how far the background should extend within an element, here we set it to text */
+              -webkit-background-clip: text; /*for browsers compatibility */
+              -webkit-text-fill-color: transparent; /* specifies the fill color of text characters. We use transparent to use the background as our text fill  */
+              animation: wave 2000ms ease alternate infinite;
+              transition: all 0.4s ease;
+            }
+            @keyframes wave {
+              0% {
+                background-position: 0 0;
+              }
+              100% {
+                background-position: 50vw 10px;
+              }
+            }
+          </style>
+</html>
+    <a href="https://www.youtube.com/@Imafailure"><h1 class="amogus">Youtube</h1></a>
+    <div class="dropdown-content">   
+    </body><a href="https://mediaape.net/"><h1 class="amogus">other sites by my freinds</h1></a>
+    <span style="background:linear-gradient(90deg,blue,cyan,red,lightgreen,purple,lime); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">heelo welcome to the twerminal do you want to find anything come here</span> 
+    
+         
+    <a href="file:///media/fuse/drivefs-5dc8325389af2be86a074a964f2ce9d1/root/dark%20theme.html"><h1 class="link">Dark theme</h1></a>
+               <a href="file:///media/fuse/drivefs-5dc8325389af2be86a074a964f2ce9d1/root/light%20theme.html"><h1 class="link">Light theme</h1></a>
+               <input type="text">
+</div>
+</body>
+</html>
+</head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="annoying.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="HeHeHeHa (snd.play(hehehe ha (clash royale).wav)";>HEHEHE HA!</button>
+    <button onclick=var var snd = new Audio("hehehe ha (clash royale).wav");>.</button>    
+<p id="demo"></p>
+1ups (channels) bday
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("april 1, 2023 00:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script> 
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8316821&style=0044&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                                                               
